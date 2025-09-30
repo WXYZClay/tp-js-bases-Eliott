@@ -1,0 +1,3 @@
+function reverseString(abcdefg) {
+  return abcdefg.split('').reverse().join('');
+}
